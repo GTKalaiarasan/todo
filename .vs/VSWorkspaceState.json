@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\controllers",
+    "\\app\\views",
+    "\\app\\views\\todo_lists",
+    "\\db",
+    "\\db\\migrate"
+  ],
+  "SelectedNode": "\\app\\views",
+  "PreviewInSolutionExplorer": false
+}
